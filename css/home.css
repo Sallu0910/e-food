@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.carousel{
+    height:90vh;
+}
+
+.img{
+    max-height: 350px;
+}
+
+.footer{
+    background-color: rgba(24,47,62,0.9);
+}
+
+.food_card:hover{
+    transform: scale(0.9);
+    transition: all ease-out 0.3s;
+}
+
+.andheri{
+    padding-top: 100px;
+}
